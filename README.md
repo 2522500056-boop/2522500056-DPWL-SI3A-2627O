@@ -4,4 +4,4 @@ Matakuliah Desain dan Pemrograman Web Lanjutan<br>
 Kelompok SI3A<br>
 Tahun Ajaran 2026/2027
 Semester Gasal<br><br>
-![logo ISB](logo atma luhur.png)
+![logo ISB](logo.png)
